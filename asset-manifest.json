@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/markogilic/bfs_test/static/css/main.57f2c873.css",
+    "main.js": "/markogilic/bfs_test/static/js/main.454bad49.js",
+    "static/js/787.cf0b9658.chunk.js": "/markogilic/bfs_test/static/js/787.cf0b9658.chunk.js",
+    "static/media/logo_bfs_co_white.png": "/markogilic/bfs_test/static/media/logo_bfs_co_white.bfa77fe20484ec2cf2bd.png",
+    "index.html": "/markogilic/bfs_test/index.html",
+    "main.57f2c873.css.map": "/markogilic/bfs_test/static/css/main.57f2c873.css.map",
+    "main.454bad49.js.map": "/markogilic/bfs_test/static/js/main.454bad49.js.map",
+    "787.cf0b9658.chunk.js.map": "/markogilic/bfs_test/static/js/787.cf0b9658.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57f2c873.css",
+    "static/js/main.454bad49.js"
+  ]
+}
